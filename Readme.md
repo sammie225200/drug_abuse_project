@@ -1,4 +1,4 @@
 Health Awareness Campaign Website
 ## Case Study: “Say No to Drug Abuse”
 Header
-![alt text](<https://github.com/sammie225200/drug_abuse_project/issues/1#issue-3417118438)
+![alt text](<https://github.com/user-attachments/assets/5b5e15c5-bb18-4af5-a86a-a82335aa6464">)
